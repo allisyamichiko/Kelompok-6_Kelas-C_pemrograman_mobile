@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teamly Flutter
 
 Starter mobile app for migrating Teamly from React to Flutter.
@@ -31,3 +32,10 @@ This is a Flutter starter/migration scaffold, not a verified one-to-one port of 
 feature in the original repository. The original GitHub source could not be cloned in
 this session, so backend compatibility has not been tested. Email and Gemini secrets
 must remain on the FastAPI backend, never inside the Flutter app.
+=======
+# Kelompok-6_Kelas-C_pemrograman_mobile
+## Anggota Kelompok
+1. Andi Allisya Michiko Rezkysia - D121241027 - @allisyamichiko
+2. Muh. Revan Almer Alphared - D121241018 - @maximoff616
+3. Nahdah Fauziah Chaidir - D121241099 - @nahdahchaidir
+>>>>>>> origin/Teamly-flutter
